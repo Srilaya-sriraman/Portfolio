@@ -10,7 +10,7 @@ const Contact = () => {
             <a href="https://github.com/Srilaya-sriraman"><img src={getImageUrl("Github.png")} className={styles.img}></img></a>
             <a href="mailto:srilayasriraman@gmail.com"><img src={getImageUrl("Mail.png")} className={styles.img}></img></a>
         </div>
-        <p className={styles.desp}>Made with Love by Srilaya ❤️</p>
+        <p className={styles.desp}>Made with ❤️ by Srilaya </p>
     </section>
   )
 }

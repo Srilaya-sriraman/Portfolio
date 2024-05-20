@@ -4,6 +4,7 @@ import styles from './Skillset.module.css'
 
 const Skillset = () => {
   return (
+    <center>
     <section className={styles.container} id="experience">
       <div className={styles.content}>
       <div className={styles.separate}>
@@ -33,9 +34,11 @@ const Skillset = () => {
           </div>
           </div>
       </div>
+      
       <p className={styles.justUpper}> .</p>
         
     </section>
+    </center>
   )
 }
 
