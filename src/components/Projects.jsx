@@ -38,9 +38,9 @@ const Projects = () => {
                 <a href="#" className={styles.btn}>To view</a>
             </div>
             <div className={styles.project}>
-                <img src={getImageUrl("Bloggistar.png")} className={styles.img} width="200px"></img>
-                <p className={styles.head}>Bloggistar</p>
-                <p className={styles.desp}>Design for an interactive and user friendly blogging website (Using Figma)</p>
+                <img src={getImageUrl("VMA.png")} className={styles.img} width="200px"></img>
+                <p className={styles.head}>Virtual Medical Assistant</p>
+                <p className={styles.desp}>Patient, Doctor management system using python and MySQL includes remote mail sending</p>
                 <a href="#" className={styles.btn}>To view</a>
             </div>
         </div>
