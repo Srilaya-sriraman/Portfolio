@@ -1,7 +1,7 @@
 @import "./vars.css";
 .App
 {   
-    background-image: url("./public/HomeBg.png");
+    background-image: url("/public/HomeBG.png");
     background-size: cover;
     width: 100%;
     height: 100%;
