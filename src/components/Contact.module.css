@@ -25,3 +25,9 @@
     font-size: 23px;
     color: var(--color-textone);
 }
+@media screen and (max-width: 830px)
+{
+    .desp{
+        font-size: 15px;
+    }
+}
