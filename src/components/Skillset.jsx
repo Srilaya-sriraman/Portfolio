@@ -20,7 +20,7 @@ const Skillset = () => {
       <p className={styles.maintitle}>SKILLS</p>
       <div>
         <div>
-        <p className={styles.head}>Front End</p>
+        <p className={styles.head}>Web Design</p>
         <p className={styles.desp}>HTML,CSS,React Js</p>
         </div>
        </div> 
@@ -29,7 +29,7 @@ const Skillset = () => {
             <p className={styles.desp}>C, CPP, Java, Python</p>
           </div>
           <div>
-            <p className={styles.head}>Designing applications</p>
+            <p className={styles.head}>Tools</p>
             <p className={styles.desp}>Figma, Canva, Picsart</p>
           </div>
           </div>
